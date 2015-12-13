@@ -1,3 +1,6 @@
+def simonarpro():
+  return true
+
 def victorarnoob():
   return true
   
